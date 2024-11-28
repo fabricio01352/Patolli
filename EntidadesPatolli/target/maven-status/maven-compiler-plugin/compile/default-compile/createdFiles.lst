@@ -1,0 +1,14 @@
+mensajes\ComunicacionSala.class
+Entidades\Estado.class
+Entidades\Rules.class
+Entidades\Jugador.class
+loggs\IPatolliInterface.class
+mensajes\MensajeSala.class
+Entidades\sesion.class
+mensajes\Mensaje.class
+mensajes\RegistrarMovimiento.class
+loggs\PatolliProxy.class
+Entidades\Casillas.class
+loggs\PatolliImp.class
+loggs\PatolliFactory.class
+Entidades\Fichas.class
